@@ -1,7 +1,5 @@
 # CPU Raytracer
 
-![](https://github.com/GalMunGral/cpu-raytracer/blob/main/examples/ex0.jpg?raw=true)
-
 ## Rhetorical Design
 
 ### Purpose
