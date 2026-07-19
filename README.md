@@ -8,4 +8,4 @@
 
 ### Strategy
 
-The sequential nature of a CPU implementation makes the performance bottleneck self-evident, motivating [gl-raytracer](https://github.com/GalMunGral/gl-raytracer), which achieves real-time performance by mapping the same computation onto the GPU. Example outputs are included to demonstrate correctness.
+The sequential nature of a CPU implementation makes the performance bottleneck self-evident, motivating [gl-raytracer](https://github.com/hwenchi/gl-raytracer), which achieves real-time performance by mapping the same computation onto the GPU. Example outputs are included to demonstrate correctness.
